@@ -10,7 +10,13 @@
 <!--- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/PaddyPadhie) -->
   
 ## 💻 Tech Stack:
-[![Tech Stack](https://skillicons.dev/icons?i=html,php,js,bootstrap,jquery,sass,symfony,mysql,docker)](https://skillicons.dev)
+[Tech Stack](https://skillicons.dev/icons?i=html)
+[Tech Stack](https://skillicons.dev/icons?i=js)
+[![Tech Stack](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Tech Stack](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![Tech Stack](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Tech Stack](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+  
 <!--- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) -->
 <!--- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) -->
 <!--- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
@@ -22,7 +28,7 @@
 <!--- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
   
 ## 🔍 Learning:
-[![Learning](https://skillicons.dev/icons?i=java,python,nginx)](https://skillicons.dev)
+[Learning](https://skillicons.dev/icons?i=java,python,nginx)
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
