@@ -29,4 +29,5 @@
 ### 🔗 Dependencies
 - https://img.shields.io
 - https://skillicons.dev
+- https://quotes-github-readme.vercel.app
 
