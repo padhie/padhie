@@ -27,5 +27,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### 🔗 Dependencies
+- https://img.shields.io
 - https://skillicons.dev
 
