@@ -10,8 +10,7 @@
 <!--- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/PaddyPadhie) -->
   
 ## 💻 Tech Stack:
-[Tech Stack](https://skillicons.dev/icons?i=html)
-[Tech Stack](https://skillicons.dev/icons?i=js)
+[![html](https://skillicons.dev/icons?i=html,js)]()
 [![Tech Stack](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Tech Stack](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![Tech Stack](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
@@ -28,7 +27,7 @@
 <!--- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
   
 ## 🔍 Learning:
-[Learning](https://skillicons.dev/icons?i=java,python,nginx)
+[![Learning](https://skillicons.dev/icons?i=java,python,nginx)]()
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
